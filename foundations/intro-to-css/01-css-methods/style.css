@@ -1,0 +1,18 @@
+/* Should only be using type selectors, 
+only use keywords for colors (e.g. "blue") instead of RGB or HEX values
+Properties for <div> element 
+- a red background 
+- white text 
+- a font size of 32px, 
+- centre aligned, and 
+- bold*/
+
+div {
+    color:white; 
+    background-color:tomato;
+    text-align: center; 
+    font-size:32px;
+    font-weight: bold;
+}
+
+
